@@ -8,7 +8,7 @@
 
 # print(1,2,3,4,sep="\n")
 
-# print("5 10", "7ρμ", sep="\n")
+# print("5 10", "7Γ±Γ¬", sep="\n")
 
 # print(14**5)
 
@@ -28,8 +28,8 @@
 # Oz yurtni qo'yib Hind sori yuzlandim,
 # Yo Rab netayin, bu ne yuz qarolig' bo'ldi.""")
 
-# print("Study" +  "tonight")
+# print("Study", "tonight", sep="")
 # print("Study", "tonight", sep=" | ")
 
 
-# print("Studytonight", "has", "been", "created", "for", "STUDENTS", sep=" _ ")
+# print("Studytonight", "has", "been", "created", "for", end=" _STUDENTS", sep=" _ ")
